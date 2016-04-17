@@ -1,0 +1,11 @@
+<h1>iC-Haus NZP Laser Diode Driver Breakout</h1>
+<p>This is a breakout for the ic-Haus NZP Laser Diode Driver. This driver provides a constant current source that can be used for a variety of laser diodes. This breakout does NOT provide proper cooling to prevent thermal damage to the LD.</p>
+<p><b>Care must be taken to ensure be sure that the driver is not configured to exceed the maximum current of your laser. This setting is up to the end user. Please consult the datasheet for both this part and the laser you intend to use.</b></p>
+
+<h2>Useful links</h2>
+<ul>
+<li><a href="http://www.ichaus.de/product/iC-NZP">Product page</a></li>
+</ul>
+
+<h2>License Information</h2>
+<p>This hardware project is released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons ShareAlike 4.0 International</a>.</p>
